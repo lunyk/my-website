@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "dotenvenc": "^3.0.1"
+  }
+}
